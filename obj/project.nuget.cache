@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y359Bmv4G/XkvfKEjVAvL7UvTltLUmjPvDVI26mG/zWVWTtj8gWJqVJa5xLifjc/vcAUcDnXG5Cu57twVX54rw==",
+  "dgSpecHash": "QNhY15IilOY3qT65DJc8GU2qBZbArUZ3hisiRr8To1xHTWkS3t7cruTCvzEGfiw5NZZJ6/Vs/XPXjNj6SYrAqw==",
   "success": true,
-  "projectFilePath": "/Users/emirhankilicaslan/Desktop/aspnetcore-dersleri/ProductsAPI/ProductsAPI.csproj",
+  "projectFilePath": "/Users/emirhankilicaslan/Desktop/aspnetcore-dersleri/ProductsAPIProject/ProductsAPI.csproj",
   "expectedPackageFiles": [
     "/Users/emirhankilicaslan/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/emirhankilicaslan/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/7.0.12/microsoft.aspnetcore.authentication.jwtbearer.7.0.12.nupkg.sha512",

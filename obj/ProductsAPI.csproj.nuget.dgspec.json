@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/emirhankilicaslan/Desktop/aspnetcore-dersleri/ProductsAPI/ProductsAPI.csproj": {}
+    "/Users/emirhankilicaslan/Desktop/aspnetcore-dersleri/ProductsAPIProject/ProductsAPI.csproj": {}
   },
   "projects": {
-    "/Users/emirhankilicaslan/Desktop/aspnetcore-dersleri/ProductsAPI/ProductsAPI.csproj": {
+    "/Users/emirhankilicaslan/Desktop/aspnetcore-dersleri/ProductsAPIProject/ProductsAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emirhankilicaslan/Desktop/aspnetcore-dersleri/ProductsAPI/ProductsAPI.csproj",
+        "projectUniqueName": "/Users/emirhankilicaslan/Desktop/aspnetcore-dersleri/ProductsAPIProject/ProductsAPI.csproj",
         "projectName": "ProductsAPI",
-        "projectPath": "/Users/emirhankilicaslan/Desktop/aspnetcore-dersleri/ProductsAPI/ProductsAPI.csproj",
+        "projectPath": "/Users/emirhankilicaslan/Desktop/aspnetcore-dersleri/ProductsAPIProject/ProductsAPI.csproj",
         "packagesPath": "/Users/emirhankilicaslan/.nuget/packages/",
-        "outputPath": "/Users/emirhankilicaslan/Desktop/aspnetcore-dersleri/ProductsAPI/obj/",
+        "outputPath": "/Users/emirhankilicaslan/Desktop/aspnetcore-dersleri/ProductsAPIProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/emirhankilicaslan/.nuget/NuGet/NuGet.Config"
